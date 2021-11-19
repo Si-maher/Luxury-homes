@@ -21,4 +21,6 @@ Naming the grid and setting values for rows and columns quickly became confusing
 
 ## Preview
 
+![Luxury homes](./img/landing-page.PNG)
 ![Luxury homes](./img/homes-for-sale.PNG)
+![Luxury homes](./img/img-gallery.PNG)
