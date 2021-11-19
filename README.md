@@ -24,3 +24,13 @@ Naming the grid and setting values for rows and columns quickly became confusing
 ![Luxury homes](./img/landing-page.PNG)
 ![Luxury homes](./img/homes-for-sale.PNG)
 ![Luxury homes](./img/img-gallery.PNG)
+
+## [Demo](https://luxury-homes-for-sale.netlify.app/)
+
+### Author 
+
+Simon Maher
+
+### Acknowledgements
+
+A big shout to Jonas for design inspiration and video content
