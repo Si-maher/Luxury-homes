@@ -2,6 +2,11 @@
     background-color: $color-secondary;
     grid-column: full-start / full-end;
     padding: 8rem;
+    @media only screen and (max-width: $bp-small) {
+        padding: 4rem;
+        gap: .5rem;
+    
+      }
 }
 .nav {
     display: grid;
@@ -21,6 +26,12 @@
         display: block;
 
         transition: all.2s;
+        @media only screen and (max-width: $bp-small) {
+            padding: 1rem;
+            font-size: 1rem;
+        
+        
+          }
     }
     &-link:hover,
     &-link:active {
